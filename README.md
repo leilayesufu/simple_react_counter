@@ -1,2 +1,5 @@
 # simple_react_counter
-Created with CodeSandbox
+this is a simple counter that adds when the + buuton is pressed and subtracts when the - button is pressed.
+this was curated using react whilst learning about the useState hook.
+to view the code and it's demo using code sandbox.
+
